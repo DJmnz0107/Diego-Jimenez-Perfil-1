@@ -1,0 +1,44 @@
+header h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.bloque1 {
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 100%;
+}
+
+.bloque2 {
+    margin-left: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.texto1 {
+    width: 100%;
+    text-align: center;
+}
+
+.card {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+.img1 {
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
